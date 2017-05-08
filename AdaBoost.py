@@ -2,7 +2,7 @@
 # @Author: WuLC
 # @Date:   2017-04-29 16:54:08
 # @Last modified by:   WuLC
-# @Last Modified time: 2017-05-08 18:30:00
+# @Last Modified time: 2017-05-09 00:12:35
 # @Email: liangchaowu5@gmail.com
 
 import os
@@ -211,9 +211,9 @@ precision: 0.54321971508, recall: 0.95723838104
         result on test data
 =========================================
 adaboost: iteration: 10
-LR: bgd, iteration: 500, step size = 0.01, with regularization
-TP:1720, FN:323, TN:3983, FP:849
-precision: 0.66952121448, recall: 0.84189916789
+LR: bgd, iteration: 800, step size = 0.01, with regularization
+TP:1694, FN:349, TN:4119, FP:713
+precision: 0.703780639801, recall: 0.82917278512
 =========================================
 """
 
