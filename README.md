@@ -155,6 +155,7 @@ single lr|0.853|0.770|0.799|0.814
 adaboost of lr|0.901|0.951|0.838|0.957
 
 and the corresponding graph is 
+
 ![adaboost_recall][11]
 
 so we judge them  with F1 score as shown below
